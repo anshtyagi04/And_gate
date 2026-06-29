@@ -63,9 +63,7 @@ AND_gate/
 
 ## Simulation Output
 
-> Replace the image name below with your waveform image filename.
-
-![GTKWave Output](and_gate_waveform.png)
+![GTKWave Output](waveform.png)
 
 ---
 
